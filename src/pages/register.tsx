@@ -63,7 +63,8 @@ export const Register: React.FC<registerProps> = ({ }) => {
 
                     </Form>
                 )}
-            </Formik></Wrapper>
+            </Formik>
+        </Wrapper>
     )
 }
 
